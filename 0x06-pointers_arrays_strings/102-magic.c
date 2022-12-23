@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-/**
- * main -the program that prints 98
- * Return: 0
- */
+
 
 int main(void)
 {
